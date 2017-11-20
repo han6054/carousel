@@ -1,4 +1,4 @@
-```
+
   var Carousel = function (config) {
                         this.config = {
                             ele: null,
@@ -76,4 +76,4 @@
                            
                         }
                     }
-```
+
